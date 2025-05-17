@@ -1,16 +1,50 @@
-## Hi there 👋
+```javascript
+const userInfo = {
+    userName: "Erfan Abouei",
+    userAge: 17,
+    userPosition: "MEVN Stack Developer",
+    userSkills: ["Express.js", "Vue.js", "Nuxt.js", ...],
+    getUserInfo() {
+        return `${this.userName} is a ${this.userPosition}
+        who is ${this.userAge} years old
+        and skilled in: ${this.userSkills.join(', ')}.`;
+    }
+};
 
-<!--
-**Erfan-Abouei/Erfan-Abouei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+console.log(userInfo.getUserInfo());
+```
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwindcss,mysql,expressjs,vue,nodejs,nuxtjs,pinia,typescript,regex,sequelize,webpack,vite,npm"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+</div>
+
+---
+
+  > The first time I touched the keyboard keys I was about 5 years old From there, my fate was determined with computers. Now I know more than a beginner, but I still can't call myself a perfect person because   no one is perfect 😊
+
+---
+
+
+<div align="center">
+    
+  <a href="https://www.instagram.com/erfan_abouei/">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="56"> 
+  </a>
+  
+  <a href="#">
+    <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="56"> 
+  </a>
+
+  <a href="">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="56"> 
+  </a>
+  <h3 align="center">Connect Me</h3>
+</div>
