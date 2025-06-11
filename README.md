@@ -16,7 +16,7 @@ console.log(userInfo.getUserInfo());
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,mysql,expressjs,vue,nodejs,nuxtjs,pinia,typescript,regex,sequelize,webpack,vite,npm"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,mysql,expressjs,vue,nodejs,react,pinia,typescript,sequelize,vite,npm"/>
   </a>
 </div>
 
