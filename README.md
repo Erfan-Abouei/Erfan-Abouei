@@ -1,5 +1,5 @@
-```javascript
-const userInfo = {
+```typescript
+const userInfo: ErfanType = {
     userName: "Erfan Abouei",
     userAge: 17,
     userPosition: "MEVN Stack Developer",
