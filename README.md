@@ -2,8 +2,8 @@
 const userInfo: ErfanType = {
     userName: "Erfan Abouei",
     userAge: 17,
-    userPosition: "MEVN Stack Developer",
-    userSkills: ["Express.js", "Vue.js", "Nuxt.js", ...],
+    userPosition: "MEVN | MERN Stack Developer",
+    userSkills: ["Express.js", "Vue.js", "React.js", ...],
     getUserInfo() {
         return `${this.userName} is a ${this.userPosition}
         who is ${this.userAge} years old
