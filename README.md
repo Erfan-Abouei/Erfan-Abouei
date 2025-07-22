@@ -23,7 +23,7 @@ console.log(userInfo.getUserInfo());
 ---
 
 <div align="center">
-    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+    <img src="https://profile-readme-generator.com/assets/snake.svg" style="width: 100%;">
 </div>
 
 ---
