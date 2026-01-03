@@ -1,17 +1,22 @@
 ```typescript
-const userInfo: ErfanType = {
-    userName: "Erfan Abouei",
-    userAge: 17,
-    userPosition: "MEVN | MERN Stack Developer",
-    userSkills: ["Express.js", "Vue.js", "React.js", ...],
-    getUserInfo() {
-        return `${this.userName} is a ${this.userPosition}
-        who is ${this.userAge} years old
-        and skilled in: ${this.userSkills.join(', ')}.`;
-    }
+type User = {
+  name: string;
+  role: string;
+  skills: string[];
+  summary(): string;
 };
 
-console.log(userInfo.getUserInfo());
+const user: User = {
+  name: "Erfan Abouei",
+  role: "Backend Developer",
+  skills: ["Node.js", "TypeScript", "Express", "NestJS", "PostgreSQL", "Redis", "..."],
+
+  summary() {
+    return `${this.name} — ${this.role}\nSkills: ${this.skills.join(", ")}`;
+  }
+};
+
+console.log(user.summary());
 ```
 
 <div align="center">
