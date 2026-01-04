@@ -28,7 +28,7 @@ console.log(user.summary());
 ---
 
 <div align="center">
-    <img src="https://profile-readme-generator.com/assets/snake.svg" style="width: 100%;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ---
