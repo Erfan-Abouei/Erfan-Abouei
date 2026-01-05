@@ -27,11 +27,9 @@ console.log(user.summary());
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erfan-Abouei/Erfan-Abouei/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Erfan-Abouei/Erfan-Abouei/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Erfan-Abouei/Erfan-Abouei/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+</div>
 
 ---
 
