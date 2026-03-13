@@ -3,17 +3,20 @@
 type User = {
   name: string;
   role: string;
-  skills: string[];
+  focus: string[];
   summary(): string;
 };
 
 const user: User = {
   name: "Erfan Abouei",
-  role: "Backend Developer",
-  skills: ["Node.js", "TypeScript", "Express", "NestJS", "PostgreSQL", "Redis", "..."],
-
+  role: "CEO @ Kara | 17",
+  focus: [
+    "Backend Architecture", 
+    "Clean Code", 
+    "System Design"
+  ],
   summary() {
-    return `${this.name} — ${this.role}\nSkills: ${this.skills.join(", ")}`;
+    return `${this.name} — ${this.role}\nFocus: ${this.focus.join(" • ")}`;
   }
 };
 
