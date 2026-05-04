@@ -25,7 +25,7 @@ console.log(user.summary());
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,nestjs,linux,docker,nginx,mysql,postgres,redis,sequelize,prisma,jest,postman"/>
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,expressjs,nestjs,linux,docker,nginx,rabbitmq,kafka,mysql,postgres,redis,sequelize,prisma,jest"/>
   </a>
 </div>
 
