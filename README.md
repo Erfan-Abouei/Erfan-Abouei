@@ -3,9 +3,20 @@
 export const erfanAbouei = {
   role: "Founder Engineer",
   companies: ["Kara", "Parifan"],
-  interests: ["Architecture", "Backend"],
+  interests: ["Architecture", "AI", "Backend"],
 } satisfies Record<string, readonly string[] | string>;
 ```
+
+<div align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,linux,docker,kubernetes,nginx,rabbitmq,kafka,postgres,redis,prisma,jest,git,githubactions,aws,prometheus,grafana,elasticsearch,bash&perline=10"/>  </a>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+</div>
 
 ---
 
