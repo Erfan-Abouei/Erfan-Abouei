@@ -3,7 +3,7 @@
 export const erfanAbouei = {
   role: "Founder Engineer",
   companies: ["Kara", "Parifan"],
-  interests: ["Architecture", "AI", "Backend"],
+  interests: ["Architecture", "Backend"],
 } satisfies Record<string, readonly string[] | string>;
 ```
 
