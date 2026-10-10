@@ -2,9 +2,23 @@
 ```typescript
 export const erfanAbouei = {
   role: "Founder Engineer",
-  companies: ["Mehkam", "Chaasha", "Parifan"],
-  interests: ["Architecture", "Backend"],
-} satisfies Record<string, readonly string[] | string>;
+  companies: ["Mehkam", "Chasha", "Revsha"],
+  previousVentures: [
+    {
+      name: "Parifan",
+      outcome: "Sold",
+    },
+  ],
+  interests: ["Software Architecture", "Backend Engineering", "Entrepreneurship"],
+} satisfies {
+  role: string;
+  companies: string[];
+  previousVentures: {
+    name: string;
+    outcome: string;
+  }[];
+  interests: string[];
+};
 ```
 
 <div align="center">
