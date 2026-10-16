@@ -23,7 +23,8 @@ export const erfanAbouei = {
 
 <div align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,linux,docker,kubernetes,nginx,rabbitmq,kafka,postgres,redis,prisma,jest,git,githubactions,aws,prometheus,grafana,elasticsearch,bash&perline=10"/>  </a>
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,go,python,linux,docker,kubernetes,nginx,postgres,redis,mongodb,prisma,rabbitmq,kafka,elasticsearch,aws,terraform,prometheus,grafana,githubactions,git,github,bash&perline=12" />
+  </a>
 </div>
 
 ---
