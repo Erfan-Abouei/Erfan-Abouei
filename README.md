@@ -29,13 +29,3 @@ export const erfanAbouei = {
 ---
 
 Technical Founder focused on building scalable software products, backend architectures, and AI-powered platforms. Passionate about turning ideas into reliable systems and creating technology with long-term impact.
-
-### Current focus
-
-- Building [Mehkam](https://mehkam.ir), Chasha, and Revsha.
-- Designing backend systems, infrastructure, and developer tooling.
-- Building [AboueiChecker](https://github.com/Erfan-Abouei/Abouei_Checker), an open-source Go CLI for backend health monitoring.
-
-### Connect
-
-- Website: [mehkam.ir](https://mehkam.ir)
