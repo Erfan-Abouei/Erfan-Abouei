@@ -32,8 +32,6 @@ export const erfanAbouei = {
     <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
 </div>
 
----
-
 <div align="center">
 Technical Founder focused on building scalable software products, backend architectures, and AI-powered platforms. Passionate about turning ideas into reliable systems and creating technology with long-term impact.
 </div>
